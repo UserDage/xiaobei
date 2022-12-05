@@ -31,7 +31,7 @@
 ![步骤1](https://i.loli.net/2021/02/05/qwFmINBZp3fgiQP.png)
 3. 再点击笔,在空白行随便输入东西
 ![步骤2](https://i.loli.net/2021/02/05/irWEo63dkwpAPyc.png)
-4. 然后往下滑动点击commint change
+4. 然后往下滑动点击commint change  
 ![步骤3](https://i.loli.net/2021/02/05/gAuwbIxyaJdWPYe.png)
 ## 四、查看运行结果
 Actions  > xioabei daka > get-points  
